@@ -4,11 +4,11 @@
 ![2](https://github.com/user-attachments/assets/db370fdd-3fe5-4d6c-855c-ed723a09f0b6)
 
 
-Define the Scene: Describe the main subject or setting.
-Define the Subject: Describe your character
-Lora models to enhance the designs and visuals, aiming for a 50% improvement in quality
-Define the Emotions: Describe the feelings that your subject needs to feel
-Use Negative Prompts for better generations
+<li>Define the Scene: Describe the main subject or setting.</li>
+<li></li>Define the Subject: Describe your character</li>
+<li></li>Lora models to enhance the designs and visuals, aiming for a 50% improvement in quality</li>
+<li></li>Define the Emotions: Describe the feelings that your subject needs to feel</li>
+<li></li>Use Negative Prompts for better generations</li>
 
 
 
