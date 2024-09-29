@@ -1,5 +1,5 @@
 <h1>Stable-Diffusion-Prompts</h1>
-<h3>This example is all about giving prompts on stable diffusion</h3>
+<h3>This example is all about giving correct prompts on stable diffusion</h3>
 
 ![2](https://github.com/user-attachments/assets/db370fdd-3fe5-4d6c-855c-ed723a09f0b6)
 
