@@ -5,6 +5,11 @@
 
 
 Define the Scene: Describe the main subject or setting.
+Define the Subject: Describe your character
+Lora models to enhance the designs and visuals, aiming for a 50% improvement in quality
+Define the Emotions: Describe the feelings that your subject needs to feel
+Use Negative Prompts for better generations
+
 
 
 
