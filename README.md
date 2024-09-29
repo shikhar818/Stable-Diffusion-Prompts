@@ -1,4 +1,4 @@
-![00003-1812513034](https://github.com/user-attachments/assets/8c9bcc53-bcc3-4124-8999-eee163140dfe)![Screenshot 2024-09-29 102811](https://github.com/user-attachments/assets/a09d159f-87d5-4c44-9816-b0b6920fe1b1)# Stable-Diffusion-Prompts
+<h1>Stable-Diffusion-Prompts</h1>
 This example is all about giving prompts on stable diffusion in such way that it generates images, ideally according to the demand for the user 
 
 ![2](https://github.com/user-attachments/assets/db370fdd-3fe5-4d6c-855c-ed723a09f0b6)
